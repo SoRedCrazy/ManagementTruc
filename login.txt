@@ -1,0 +1,8 @@
+admin1@gmail.com:adminbestfr:admin:didier:blanco:001
+dispatcheur1@gmail.com:elpueblo37260:dispatcheur:didier:hamed:001
+dispatcheur2@live.fr:lolilo0611200:dispatcheur:jean:petit:002
+chauffeur1@hotmail.fr:lecamion37:Chauffeur:brian:lucet:001
+chauffeur2@hotmail.fr:lecamion37:Chauffeur:pierre:hali:002
+chauffeur3@gmail.com:camille56:Chauffeur:herver:halibaba:003
+chauffeur4@live.fr:minicooper22:Chauffeur:abdel:decourt:004
+chauffeur5@orange.fr:cpu44ghz:Chauffeur:patrique:etoiledemers:005
